@@ -14,7 +14,7 @@
     "require": {
         "php": "^5.5.9|^7.0",
         "symfony/framework-bundle": "^2.8|^3.0",
-        "symfony-cmf/core-bundle": "^1.1.0",
+        "symfony-cmf/core-bundle": "dev-sf_3",
         "doctrine/phpcr-bundle": "^1.1",
         "doctrine/phpcr-odm": "^1.1",
         "knplabs/knp-menu-bundle": "^2.0.0",
@@ -22,7 +22,7 @@
     },
     "require-dev": {
         "symfony/monolog-bundle": "^2.3|^3.0",
-        "symfony-cmf/routing-bundle": "^1.2.0",
+        "symfony-cmf/routing-bundle": "dev-support-sf3",
         "symfony-cmf/testing": "^1.3",
         "symfony-cmf/tree-browser-bundle": "^1.0|^2.0",
         "doctrine/phpcr-odm": "^1.3",
